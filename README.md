@@ -42,7 +42,6 @@ A full-stack Event Management System built with Next.js, NestJS, and PostgreSQL.
 
 ```bash
 git clone <repository-url>
-cd codegeeks
 ```
 
 ### 2. Start PostgreSQL with Docker
@@ -165,7 +164,7 @@ The algorithm uses the Haversine formula for calculating geographic distances be
 ## Project Structure
 
 ```
-codegeeks/
+root/
 ├── backend/
 │   ├── src/
 │   │   ├── common/           # Guards, filters, middleware
